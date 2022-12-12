@@ -1,0 +1,12 @@
+{
+    "python.linting.pylintEnabled": false,
+    "python.linting.enabled": false,
+    "emmet.includeLanguages": {
+        "django-html": "html"
+    },
+    "git.untrackedChanges": "mixed",
+    "git.terminalAuthentication": true,
+    "git.autoRepositoryDetection": true,
+    "git.ignoreSubmodules": false,
+    "git.autorefresh": false
+}
