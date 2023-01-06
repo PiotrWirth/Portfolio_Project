@@ -11,7 +11,7 @@ The main functions include:
 - The 'about' page
 - Page with list of all the posts
 - Post detail view
-- Creating a new posts
+- Creating new posts
 - Updating posts
 - Deleting posts
 - Page with drafts where we can check the post before publishing it. 
